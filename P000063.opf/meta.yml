@@ -1,8 +1,9 @@
-ebook_metadata:
+id: P000063
+initial_creation_type: ebook
+source_metadata:
   title: རྒྱུད་འགྲེལ།
   authors:
   - མཛད་པ་པོ། དྲི་བྲལ་ཉི་མའི་སྣང་བ།
-  sku: SHE-001
   layers:
   - book_title
   - author
@@ -10,6 +11,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: SHE-001
 web_metadata:
   title:
     en: A Commentary on a Tantra
